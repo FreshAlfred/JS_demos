@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+#bigger {
+    width: 60rem;
+    height: 60rem;
+    background-color: aqua;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+
+}
+
+
+#less {
+    width: 5rem;
+    height: 5rem;
+    background-color: red;
+    border-radius: 50%;
+    margin: 0 auto;
+    color: aliceblue;
+    font-weight: 600;
+    text-align: center;
+    line-height: 5rem;
+}
+
